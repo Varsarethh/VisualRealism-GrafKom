@@ -12,7 +12,7 @@ Texture Mapping, dan Shadow Mapping.
 - T : Tekstur on/off
 - N : Nearest / Bilinear+Mipmap
 - H : Bayangan on/off
-- [ ] : Turunkan / naikkan shadow bias
+- [] : Turunkan / naikkan shadow bias
 - V : VSync on/off
 - Mouse kiri (seret) : putar kamera
 - Scroll : zoom
